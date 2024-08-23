@@ -7,6 +7,6 @@ At Easy Diagnosis, we’re committed to making healthcare convenient and accessi
 ![Screenshot (227)](https://github.com/user-attachments/assets/9fe6c3f1-d0b6-406b-b162-5328794d9d6e)
 
 ![Screenshot (228)](https://github.com/user-attachments/assets/93fe53ba-8bc9-4a86-9f3b-7e9e4ffe3412)
-
+ 
 ## Contact Us
 ![Screenshot (229)](https://github.com/user-attachments/assets/819ca874-c2fe-45c3-afe3-bb15d5072791)
